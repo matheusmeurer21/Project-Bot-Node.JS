@@ -15,6 +15,8 @@ Iniciar NPM
 
 Instalar discord.js
 
+"npm install discord.js"
+
 Criar index.js (Comandos do BOT)
 
 PREDEFINIÇÃO
